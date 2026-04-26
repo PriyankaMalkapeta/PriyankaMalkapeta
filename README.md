@@ -13,12 +13,6 @@ Passionate about building intelligent products using Artificial Intelligence, Ma
 🎓 Master's in Computer Science – University of North Texas  
 🎓 Bachelor's in Engineering – India  
 
-🚀 Currently building:
-- CareerPilot (AI Resume Optimizer)
-- Medical Chatbot (LLM + RAG)
-- Customer Churn Prediction
-- House Price Calculator
-
 ☁️ Experienced in:
 AWS | Azure | Docker | Kubernetes | Databricks | Spark
 
@@ -47,29 +41,16 @@ AI Resume Optimizer + ATS Score Checker + JD Matcher
 Employee Attendance & Productivity Tracker  
 🔗 https://github.com/PriyankaMalkapeta/clock-in-tracker-pro
 
-### 🔹 Medical Chatbot *(Coming Soon)*  
+### 🔹 Medical Chatbot  
 Healthcare AI Chatbot using LLM + RAG
 
-### 🔹 Customer Churn Prediction *(Coming Soon)*  
+### 🔹 Customer Churn Prediction 
 ML Classification Project
 
-### 🔹 House Price Calculator *(Coming Soon)*  
+### 🔹 House Price Calculator 
 Regression + Streamlit App
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PriyankaMalkapeta&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaMalkapeta&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 🔗 LinkedIn:  
@@ -78,10 +59,13 @@ https://www.linkedin.com/in/priyanka-malkapeta/
 📫 Email:  
 priyankamalkapeta7@gmail.com
 
-📄 Resume:  
-(Add Google Drive Resume Link Here)
-
 ---
+## 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,aws,azure,tensorflow,pytorch,docker,kubernetes,git,mysql,postgresql" />
+
+
+
 
 ## 💡 Quote
 
