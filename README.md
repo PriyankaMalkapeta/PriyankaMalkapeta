@@ -1,63 +1,93 @@
-## Hi there 👋
-# 👋 Hi, I'm Priyanka Malkapeta
+<h1 align="center">Hi 👋, I'm Priyanka Malkapeta</h1>
+<h3 align="center">AI / ML Engineer | Generative AI | Data Scientist | Cloud Engineer</h3>
 
-## 🚀 AI / ML Engineer | GenAI 
-
-Passionate about building intelligent systems using Machine Learning, Deep Learning, NLP, and Generative AI.
-
----
-
-## 💼 Skills
-
-- Python
-- SQL
-- Machine Learning
-- Deep Learning
-- NLP
-- Generative AI
-- LangChain
-- RAG Pipelines
-- AWS
-- Azure
-- Docker
-- Kubernetes
-- Databricks
-- Spark
+<p align="center">
+🚀 Building intelligent systems with AI, ML, NLP & LLMs <br>
+📍 Dallas, Texas, USA <br>
+💼 Open to Full-Time Opportunities
+</p>
 
 ---
 
-## 🔥 Current Focus
+## 👩‍💻 About Me
 
-- LLM Applications
-- AI Agents
-- Healthcare AI
-- Production ML Systems
-- MLOps
+- 🔭 Currently building **CareerPilot** – AI Resume Optimizer  
+- 🤖 Working on **LLM Apps, RAG Pipelines, AI Agents**
+- 🏥 Experienced in **Healthcare AI / Clinical NLP**
+- ☁️ Cloud Experience in **AWS & Azure**
+- 📈 Passionate about solving business problems using AI
+- 🎯 Goal: Become a Top AI Engineer in USA
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Tech Stack
 
-### 🤖 CareerPilot
-AI Resume Optimizer + ATS Scorer
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,aws,azure,tensorflow,pytorch,docker,kubernetes,mysql,postgresql,git,github,vscode,linux" />
+</p>
 
-### 🏥 Medical Chatbot
-Healthcare chatbot using LLM + RAG
+---
 
-### 📊 Predictive Analytics
-Forecasting patient risk & admissions
+## 🤖 AI / ML Skills
+
+- Machine Learning  
+- Deep Learning  
+- NLP  
+- Generative AI  
+- Prompt Engineering  
+- LangChain  
+- LLM Applications  
+- RAG Pipelines  
+- Vector Databases  
+- Model Deployment  
+- MLOps  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 CareerPilot
+AI Resume Optimizer + ATS Score Checker + JD Matcher
+
+### 🔹 Medical Chatbot
+Healthcare AI Chatbot using LLM + RAG
+
+### 🔹 Predictive Analytics
+Patient Risk Prediction using ML Models
+
+### 🔹 AI4Women
+Empowering women with AI education globally
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/priyanka-malkapeta)
+<p align="left">
+<a href="https://www.linkedin.com/in/priyanka-malkapeta/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 💡 Quote
 
-![Stats](https://github-readme-stats.vercel.app/api?username=PriyankaMalkapeta&show_icons=true&theme=radical)
+> "Consistency + Skills + Faith = Success"
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaMalkapeta&layout=compact&theme=radical)
+---
 
+<p align="center">
+⭐ From Priyanka Malkapeta
+</p>
