@@ -21,13 +21,6 @@ Machine Learning | Deep Learning | NLP | Generative AI | Prompt Engineering | RA
 
 💼 Open to Full-Time Opportunities in AI / ML / Data Science Roles
 
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,aws,azure,tensorflow,pytorch,docker,kubernetes,mysql,postgresql,git,github,vscode,linux" />
-</p>
 
 ---
 
@@ -60,11 +53,11 @@ https://www.linkedin.com/in/priyanka-malkapeta/
 priyankamalkapeta7@gmail.com
 
 ---
-## 🛠 Tech Stack
+## 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,aws,azure,tensorflow,pytorch,docker,kubernetes,git,mysql,postgresql" />
-
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,aws,azure,tensorflow,pytorch,docker,kubernetes,mysql,postgresql,git,github,vscode,linux" />
+</p>
 
 
 ## 💡 Quote
