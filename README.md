@@ -19,13 +19,8 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,aws,azure,tensorflow,pytorch,docker,kubernetes,mysql,postgresql,git,github,vscode,linux" />
-</p>
 
----
 
 ## 🤖 AI / ML Skills
 
@@ -61,43 +56,38 @@ Empowering women with AI education globally
 
 ### 🤖 AI / ML Projects
 
-- 🔹 [CareerPilot - AI Resume Optimizer](https://github.com/YOUR_USERNAME/CareerPilot)  
+- 🔹 [CareerPilot - AI Resume Optimizer](https://github.com/PriyankaMalkapeta/a/CareerPilot)  
   ATS Score Checker, Resume Generator, JD Matcher
 
-- 🔹 [Medical Chatbot](https://github.com/YOUR_USERNAME/medical-chatbot)  
+- 🔹 [Medical Chatbot](https://github.com/PriyankaMalkapeta/a/medical-chatbot)  
   LLM + RAG based healthcare chatbot
 
-- 🔹 [House Price Prediction](https://github.com/YOUR_USERNAME/house-price-prediction)  
+- 🔹 [House Price Prediction](https://github.com/PriyankaMalkapeta/a/house-price-prediction)  
   Machine learning regression project
 
-- 🔹 [Customer Churn Prediction](https://github.com/YOUR_USERNAME/churn-prediction)  
+- 🔹 [Customer Churn Prediction](https://github.com/PriyankaMalkapeta/a/churn-prediction)  
   Classification model for retention analytics
 
 ---
 
 ### ☁️ Cloud / Data Engineering
 
-- 🔹 [AWS Data Pipeline Project](https://github.com/YOUR_USERNAME/aws-pipeline)
+- 🔹 [AWS Data Pipeline Project](https://github.com/PriyankaMalkapeta/aws-pipeline)
 
-- 🔹 [Azure Databricks ETL](https://github.com/YOUR_USERNAME/azure-etl)
-
-- 🔹 [Kafka Streaming Project](https://github.com/YOUR_USERNAME/kafka-streaming)
+- 🔹 [Azure Databricks ETL](https://github.com/PriyankaMalkapeta/azure-etl)
 
 ---
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,aws,azure,tensorflow,pytorch,docker,kubernetes,mysql,postgresql,git,github,vscode,linux" />
+</p>
 
 ### 🌐 Web / Full Stack
 
-- 🔹 [Portfolio Website](https://github.com/YOUR_USERNAME/portfolio)
+- 🔹 [Portfolio Website](https://github.com/PriyankaMalkapeta/portfolio)
 
-- 🔹 [AI4Women Website](https://github.com/YOUR_USERNAME/ai4women)
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
+- 🔹 [AI4Women Website](https://github.com/PriyankaMalkapeta/ai4women)
 ---
 
 ## 🌐 Connect With Me
