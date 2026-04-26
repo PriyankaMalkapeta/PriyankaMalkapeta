@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka Malkapeta</h1>
-<h3 align="center">AI / ML Engineer | Generative AI | Data Scientist | Cloud Engineer</h3>
+<h3 align="center">AI / ML Engineer | Generative AI </h3>
 
 <p align="center">
  Building intelligent systems with AI, ML, NLP & LLMs <br>
@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently building **CareerPilot** – AI Resume Optimizer  
+- 🔭 Built **CareerPilot** – AI Resume Optimizer  
 - 🤖 Working on **LLM Apps, RAG Pipelines, AI Agents**
 - 🏥 Experienced in **Healthcare AI / Clinical NLP**
 - ☁️ Cloud Experience in **AWS & Azure**
@@ -37,20 +37,6 @@
 - MLOps  
 
 ---
-
-## 🚀 Featured Projects
-
-### 🔹 CareerPilot
-AI Resume Optimizer + ATS Score Checker + JD Matcher
-
-### 🔹 Medical Chatbot
-Healthcare AI Chatbot using LLM + RAG
-
-### 🔹 Predictive Analytics
-Patient Risk Prediction using ML Models
-
-### 🔹 AI4Women
-Empowering women with AI education globally
 
 ## 🚀 Featured Repositories
 
