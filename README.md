@@ -2,8 +2,7 @@
 <h3 align="center">AI / ML Engineer | Generative AI | Data Scientist | Cloud Engineer</h3>
 
 <p align="center">
-🚀 Building intelligent systems with AI, ML, NLP & LLMs <br>
-📍 Dallas, Texas, USA <br>
+ Building intelligent systems with AI, ML, NLP & LLMs <br>
 💼 Open to Full-Time Opportunities
 </p>
 
@@ -62,9 +61,6 @@ Empowering women with AI education globally
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
