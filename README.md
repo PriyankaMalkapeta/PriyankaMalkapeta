@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👋 Hi, I'm Priyanka Malkapeta
 
-## 🚀 AI / ML Engineer | GenAI | Data Scientist
+## 🚀 AI / ML Engineer | GenAI 
 
 Passionate about building intelligent systems using Machine Learning, Deep Learning, NLP, and Generative AI.
 
