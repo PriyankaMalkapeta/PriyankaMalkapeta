@@ -57,7 +57,39 @@ Patient Risk Prediction using ML Models
 ### 🔹 AI4Women
 Empowering women with AI education globally
 
+## 🚀 Featured Repositories
+
+### 🤖 AI / ML Projects
+
+- 🔹 [CareerPilot - AI Resume Optimizer](https://github.com/YOUR_USERNAME/CareerPilot)  
+  ATS Score Checker, Resume Generator, JD Matcher
+
+- 🔹 [Medical Chatbot](https://github.com/YOUR_USERNAME/medical-chatbot)  
+  LLM + RAG based healthcare chatbot
+
+- 🔹 [House Price Prediction](https://github.com/YOUR_USERNAME/house-price-prediction)  
+  Machine learning regression project
+
+- 🔹 [Customer Churn Prediction](https://github.com/YOUR_USERNAME/churn-prediction)  
+  Classification model for retention analytics
+
 ---
+
+### ☁️ Cloud / Data Engineering
+
+- 🔹 [AWS Data Pipeline Project](https://github.com/YOUR_USERNAME/aws-pipeline)
+
+- 🔹 [Azure Databricks ETL](https://github.com/YOUR_USERNAME/azure-etl)
+
+- 🔹 [Kafka Streaming Project](https://github.com/YOUR_USERNAME/kafka-streaming)
+
+---
+
+### 🌐 Web / Full Stack
+
+- 🔹 [Portfolio Website](https://github.com/YOUR_USERNAME/portfolio)
+
+- 🔹 [AI4Women Website](https://github.com/YOUR_USERNAME/ai4women)
 
 ## 📊 GitHub Stats
 
