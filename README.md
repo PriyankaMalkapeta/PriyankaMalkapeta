@@ -1,16 +1,63 @@
 ## Hi there 👋
+# 👋 Hi, I'm Priyanka Malkapeta
 
-<!--
-**PriyankaMalkapeta/PriyankaMalkapeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI / ML Engineer | GenAI | Data Scientist
 
-Here are some ideas to get you started:
+Passionate about building intelligent systems using Machine Learning, Deep Learning, NLP, and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Skills
+
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- NLP
+- Generative AI
+- LangChain
+- RAG Pipelines
+- AWS
+- Azure
+- Docker
+- Kubernetes
+- Databricks
+- Spark
+
+---
+
+## 🔥 Current Focus
+
+- LLM Applications
+- AI Agents
+- Healthcare AI
+- Production ML Systems
+- MLOps
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 CareerPilot
+AI Resume Optimizer + ATS Scorer
+
+### 🏥 Medical Chatbot
+Healthcare chatbot using LLM + RAG
+
+### 📊 Predictive Analytics
+Forecasting patient risk & admissions
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/priyanka-malkapeta)
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=PriyankaMalkapeta&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaMalkapeta&layout=compact&theme=radical)
+
