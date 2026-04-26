@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanka Malkapeta</h1>
 
-<h3 align="center">AI / ML Engineer | Generative AI Developer | Data Scientist | Cloud Engineer</h3>
+<h3 align="center">AI / ML Engineer | Generative AI Developer | Cloud Engineer</h3>
 
 <p align="center">
 Passionate about building intelligent products using Artificial Intelligence, Machine Learning, NLP, LLMs, and Cloud Technologies.
