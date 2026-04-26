@@ -66,7 +66,11 @@ Empowering women with AI education globally
   Machine learning regression project
 
 - 🔹 [Customer Churn Prediction](https://github.com/PriyankaMalkapeta/a/churn-prediction)  
-  Classification model for retention analytics
+- 🔹 Clock In Tracker Pro
+Attendance / Employee Tracker System
+
+🔗 https://github.com/PriyankaMalkapeta/clock-in-tracker-pro
+
 
 ---
 
