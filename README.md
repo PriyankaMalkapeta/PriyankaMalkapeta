@@ -10,7 +10,7 @@ Passionate about building intelligent products using Artificial Intelligence, Ma
 
 ## 👩‍💻 About Me
 
-🎓 Master's in Computer Science – University of North Texas  
+🎓 Master's in Advanced Data Analytics– University of North Texas  
 🎓 Bachelor's in Engineering – India  
 
 ☁️ Experienced in:
