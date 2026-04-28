@@ -37,11 +37,8 @@ Employee Attendance & Productivity Tracker
 ### 🔹 Medical Chatbot  
 Healthcare AI Chatbot using LLM + RAG
 
-### 🔹 Customer Churn Prediction 
-ML Classification Project
-
-### 🔹 House Price Calculator 
-Regression + Streamlit App
+### 🔹 Baggage-Arrival-Prediction
+🔗https://github.com/PriyankaMalkapeta/Baggage-Arrival-Forecasting
 
 ---
 ## 🌐 Connect With Me
