@@ -38,9 +38,10 @@ Employee Attendance & Productivity Tracker
 
 ### 🔹 Medical Chatbot  
 Healthcare AI Chatbot using LLM + RAG
+🔗 https://github.com/PriyankaMalkapeta/MedicalBot
 
 ### 🔹 Baggage-Arrival-Prediction
-🔗https://github.com/PriyankaMalkapeta/Baggage-Arrival-Forecasting
+🔗 https://github.com/PriyankaMalkapeta/Baggage-Arrival-Forecasting
 
 ---
 ## 🌐 Connect With Me
