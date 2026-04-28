@@ -24,7 +24,9 @@ Machine Learning | Deep Learning | NLP | Generative AI | Prompt Engineering | RA
 
 ---
 
-## 🚀 Featured Projects - Find all my repositories below    🔗 https://github.com/PriyankaMalkapeta?tab=repositories
+## 🚀 Featured Projects - Find all my repositories below    
+
+🔗 https://github.com/PriyankaMalkapeta?tab=repositories
 
 ### 🔹 CareerPilot  
 AI Resume Optimizer + ATS Score Checker + JD Matcher  
