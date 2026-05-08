@@ -11,7 +11,7 @@ Passionate about building intelligent products using Artificial Intelligence, Ma
 ## 👩‍💻 About Me
 
 🎓 Master's in Advanced Data Analytics– University of North Texas  
-🎓 Bachelor's in Engineering – India  
+🎓 Bachelor's in Computer Science – India  
 
 ☁️ Experienced in:
 AWS | Azure | Docker | Kubernetes | Databricks | Spark
