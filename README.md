@@ -17,7 +17,7 @@ Passionate about building intelligent products using Artificial Intelligence, Ma
 AWS | Azure | Docker | Kubernetes | Databricks | Spark
 
 🤖 Specialized in:
-Machine Learning | Deep Learning | NLP | Generative AI | Prompt Engineering | RAG Pipelines | AI Agents
+Machine Learning | Deep Learning | NLP | Generative AI | Prompt Engineering | RAG Pipelines | AI Agents 
 
 💼 Open to Full-Time Opportunities in AI / ML / Data Science Roles
 
